@@ -1,0 +1,116 @@
+/*CSS reset settings here*/
+
+#wrapper {
+ width: 900px;
+ margin:0 auto;
+ padding: 10px;
+ background-color: silver;
+
+}
+
+#header {
+
+height: 75px;
+margin: 0 auto;
+ background-color: rgb(78, 232, 247);
+}
+
+h1 {
+  display: inline-block;
+}
+
+#links_bar{
+
+  display:inline-block;
+  float:right;
+  margin: 30px;
+}
+
+#body_block {
+height:600px;
+padding: 10px;
+margin-top: 20px;
+background-color:rgb(249, 244, 122);
+}
+
+#footer {
+height: 75px;
+margin-top: 15px;
+ background-color: rgb(78, 232, 247);
+}
+
+#left_rectangle{
+
+width: 180px;
+height: 540px;
+padding: 15px;
+margin-bottom: 20px;
+display: inline-block;
+background-color: rgb(29, 19, 79)
+
+
+}
+
+h2 {
+
+font-size: 20px;
+color: white;
+}
+
+
+p {
+  padding: 10px;
+  font-size: 15px;
+
+  color:white;
+
+
+
+}
+
+#right_rectangle{
+width:660px;
+height: 500px;
+display:inline-block;
+vertical-align: top;
+
+}
+
+h3{
+color: white;
+
+}
+
+
+.box1
+{
+width: 190px;
+height: 190px;
+margin: 0px 10px 10px 10px;
+
+display: inline-block;
+vertical-align: top;
+
+
+background-color: rgb(23, 15, 85)
+
+}
+
+.box2{
+  width: 300px;
+  height: 200px;
+  margin: 0px 9px;
+  background-color: rgb(23, 15, 85);
+  display: inline-block;
+
+
+
+}
+
+.box3{
+
+  width:625px;
+  height: 150px;
+  margin: 10px;
+  background-color: rgb(23, 15, 85);
+}
